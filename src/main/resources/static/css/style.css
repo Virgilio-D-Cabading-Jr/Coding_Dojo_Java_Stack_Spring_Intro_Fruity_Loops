@@ -9,3 +9,14 @@ body {
 * {
     color: white;
 }
+
+.text-pink {
+	color: hotpink;
+}
+
+.pink-card {
+	border-style: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    border-color: hotpink;
+}
